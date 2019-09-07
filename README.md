@@ -1,6 +1,6 @@
 # gahaganmorph
 
-This article was published in [Digital Applications in Archaeology and Cultural Heritage](https://doi.org/10.1016/j.daach.2018.e00080) in 2018, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/u7qfr/). The gahagan-analysis file contains the data (landmarks and semilandmarks) and R scripts used in the analysis. The unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. Those data are embargoed for a period of five years, as the analysis of these bifaces is ongoing.
+This article, entitled "Lithic Morphological Organisation: Gahagan Bifaces from the Southern Caddo Area," was published in [Digital Applications in Archaeology and Cultural Heritage](https://doi.org/10.1016/j.daach.2018.e00080) in 2018, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/u7qfr/). The gahagan-analysis file contains the data (landmarks and semilandmarks) and R scripts used in the analysis. The unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. Those data are embargoed for a period of five years, as the analysis of these bifaces is ongoing.
 
 ![](GMDgithub.jpg)
 
