@@ -1,6 +1,6 @@
 # gahaganmorph
 
-This article, entitled "Lithic Morphological Organisation: Gahagan Bifaces from the Southern Caddo Area," was published in [Digital Applications in Archaeology and Cultural Heritage](https://doi.org/10.1016/j.daach.2018.e00080) in 2018, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/u7qfr/). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/xtrkwwhwyryg). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. Those data are embargoed for a period of five years.
+This article, entitled "Lithic Morphological Organisation: Gahagan Bifaces from the Southern Caddo Area," was published in [Digital Applications in Archaeology and Cultural Heritage](https://doi.org/10.1016/j.daach.2018.e00080) in 2018, and the preprint is available for download on [SocArXiv](https://osf.io/preprints/socarxiv/u7qfr/). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/xtrkwwhwyryg). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. All 3D data are embargoed for a period of five years from the most recent submission that employs them.
 
 ![](GMDgithub.jpg)
 
